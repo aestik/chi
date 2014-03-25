@@ -1,0 +1,18 @@
+{
+  "name": "contoh-htmlincludes",
+  "description": "contoh htmlincludes",
+  "version": "0.1.0",
+  "author": {
+    "name": "Pratama Hasriyan S.",
+    "email": "pratama@aestik.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/prath/chi.git"
+  },
+  "devDependencies": {
+    "gulp-preprocess": "~1.0.1"
+  },
+  "keywords": [],
+  "dependencies": {}
+}
